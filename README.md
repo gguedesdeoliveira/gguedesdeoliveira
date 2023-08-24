@@ -14,12 +14,18 @@
 ![GitHub](https://img.shields.io/badge/GitHub-0A66C2?style=for-the-badge&logo=GitHub&logoColor=white)
 
 ### GitHub Status
-<div>
-  <a href="https://github.com/gguedesdeoliveira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gguedesdeoliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gguedesdeoliveira&layout=compact&langs_count=6&theme=tokyonight"/>
 
-### Tecnologias
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gguedesdeoliveira&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gguedesdeoliveira&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+<div>
+
+
+## Minhas contribuições
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=gguedesdeoliveira&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/gguedesdeoliveira/dio-lab-open-source)
+
+## Tecnologias
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
